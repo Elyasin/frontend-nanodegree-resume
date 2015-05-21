@@ -79,11 +79,16 @@ a {
   display: block;
 }
 
+.url {
+  margin-top: 0px;
+  display: inline;
+}
+
 .welcome-message {
   font-style: italic;
   font-size: 18px;
   color: #F3F3F3;
-  line-height: 28px;
+  line-height: 20px;
 }
 
 #skillsH3 {
